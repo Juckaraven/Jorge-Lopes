@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Lopes Gomes Junior
 ================================================================================================================================================
 
-Frontend Developer
+Frontend Developer Iniciante
 ------------------
 
 Eu possuo mais de 20 anos de experiência como operador de computadores e digitador, porém nunca investi na área de desenvolvimento e programação como área de atuação. Hoje estou em um processo de aprendizado autodidata e até o momento estou familiarizado com conceitos básicos de Internet, Browser, Acessibilidade, SEO, HTML5 e CSS. Atualmente estou iniciando JavaScript e focando nos fundamentos e estrutura das linguagens.
