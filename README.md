@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer Iniciante
 ------------------
 
-Eu possuo mais de 20 anos de experiência como operador de computadores e digitador, porém nunca investi na área de desenvolvimento e programação como área de atuação. Hoje estou em um processo de aprendizado autodidata e até o momento estou familiarizado com conceitos básicos de Internet, Browser, Acessibilidade, SEO, HTML5 e CSS. Atualmente estou iniciando JavaScript e focando nos fundamentos e estrutura das linguagens.
+<p align="justify">Eu possuo mais de 20 anos de experiência como operador de computadores e digitador, porém nunca investi na área de desenvolvimento e programação como área de atuação. Hoje estou em um processo de aprendizado autodidata e até o momento estou familiarizado com conceitos básicos de Internet, Browser, Acessibilidade, SEO, HTML5 e CSS. Atualmente estou iniciando JavaScript e focando nos fundamentos e estrutura das linguagens.</p>
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [jorgelopes@id.uff.br](mailto:jorgelopes@id.uff.br)
