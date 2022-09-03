@@ -5,6 +5,8 @@ Frontend Developer Iniciante
 ------------------
 
 <p align="justify">Eu possuo mais de 20 anos de experiência como operador de computadores e digitador, porém nunca investi na área de desenvolvimento e programação como área de atuação. Hoje estou em um processo de aprendizado autodidata e até o momento estou familiarizado com conceitos básicos de Internet, Browser, Acessibilidade, SEO, HTML5 e CSS. Atualmente estou iniciando JavaScript e focando nos fundamentos e estrutura das linguagens.</p>
+<hr/>
+<p align="justify">I have more than 20 years of experience as a computer operator and typist, but I have never invested in the area of ​​development and programming as an area of ​​expertise. Today I am in a self-taught learning process and so far I am familiar with basic concepts of Internet, Browser, Accessibility, SEO, HTML5 and CSS. I'm currently starting JavaScript and focusing on the fundamentals and structure of Code languages.
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [jorgelopes@id.uff.br](mailto:jorgelopes@id.uff.br)
